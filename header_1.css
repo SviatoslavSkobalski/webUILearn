@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+  }
+
+#home-first {
+	display: flex;
+	width: 15%;
+	float: left;
+}
+
+#icon-first {
+	width: 80px;
+	margin-left: 5%;
+}
+
+#button-home-first {
+	text-decoration: none;
+	color: black;
+	margin: 5px;
+}
+
+#search-bar-first {
+	width: 60%;
+	margin: 0% 5%;
+	float: left;
+}
+
+#menu-burger-first {
+	width: 5%;
+	float: right;
+}
